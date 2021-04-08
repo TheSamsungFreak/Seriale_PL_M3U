@@ -1,13 +1,20 @@
-#EXTM3U
+#EXTM3U   GoVod
+
 #EXTINF:-1 tvg-logo="https://i1.fdbimg.pl/0lguy722/426x597_qpwpd6.jpg", Season 1 Odcinek 1
-https://hhostss.com/stream/v2/YToyOntzOjE6InUiO2k6MjQyOTtzOjQ6ImZyZWUiO2k6MDt9/0/OS0xOTM4OTY/master.m3u8
+https://datacenter2.govod.tv//storage-2/series/era-samurajow-bitwa-o-japonie/S01E01.mp4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i1.fdbimg.pl/0lguy722/426x597_qpwpd6.jpg", Season 1 Odcinek 2
-https://hhostss.com/stream/v2/YToyOntzOjE6InUiO2k6MjQyOTtzOjQ6ImZyZWUiO2k6MDt9/0/MTEtMjM3MDA2/master.m3u8
+https://datacenter1.govod.tv//storage-2/series/era-samurajow-bitwa-o-japonie/S01E02.mp4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i1.fdbimg.pl/0lguy722/426x597_qpwpd6.jpg", Season 1 Odcinek 3
-https://hhostss.com/stream/v2/YToyOntzOjE6InUiO2k6MjQyOTtzOjQ6ImZyZWUiO2k6MDt9/0/My02NDYxNA/master.m3u8
+https://datacenter1.govod.tv//storage-2/series/era-samurajow-bitwa-o-japonie/S01E03.mp4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i1.fdbimg.pl/0lguy722/426x597_qpwpd6.jpg", Season 1 Odcinek 4
-https://hhostss.com/stream/v2/YToyOntzOjE6InUiO2k6MjQyOTtzOjQ6ImZyZWUiO2k6MDt9/0/MTYtMzQ0NTYw/master.m3u8
+https://datacenter1.govod.tv//storage-2/series/era-samurajow-bitwa-o-japonie/S01E04.mp4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i1.fdbimg.pl/0lguy722/426x597_qpwpd6.jpg", Season 1 Odcinek 5
-https://hhostss.com/stream/v2/YToyOntzOjE6InUiO2k6MjQyOTtzOjQ6ImZyZWUiO2k6MDt9/0/OC0xNzIzNDQ/master.m3u8
+https://datacenter1.govod.tv//storage-2/series/era-samurajow-bitwa-o-japonie/S01E05.mp4/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i1.fdbimg.pl/0lguy722/426x597_qpwpd6.jpg", Season 1 Odcinek 6
-https://hhostss.com/stream/v2/YToyOntzOjE6InUiO2k6MjQyOTtzOjQ6ImZyZWUiO2k6MDt9/0/NC04NjA5Mg/master.m3u8
+https://datacenter2.govod.tv//storage-2/series/era-samurajow-bitwa-o-japonie/S01E06.mp4/index.m3u8
+
